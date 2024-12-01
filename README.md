@@ -1,6 +1,6 @@
 Code
 
-The current scripts to conduct ISC analyses are in the folder.
+These are the current scripts to conduct ISC in Matlab.
 
 Data
 
